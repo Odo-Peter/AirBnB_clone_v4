@@ -1,3 +1,4 @@
+//js
 $('document').ready(function () {
   const api = 'http://' + window.location.hostname;
   $.get(api + ':5001/api/v1/status/', function (response) {
