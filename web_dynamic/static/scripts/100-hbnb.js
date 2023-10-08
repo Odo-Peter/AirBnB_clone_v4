@@ -106,7 +106,7 @@ function appendPlaces (data) {
                   <DIV class="number_bathrooms">
                     <I class="fa fa-bath fa-3x" aria-hidden="true"></I>
                     </BR>
-                    ${place.number_bathrooms} Bathrooms
+                    ${place.number_bathrooms} Bathroom
                   </DIV>
                 </DIV>
                 <DIV class="description">
